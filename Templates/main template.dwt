@@ -13,7 +13,9 @@
 	<body>
 		<div class="wrapper">
 			<div class="navigation">
+			
 				<div class="table">
+					<p><img src="../images/banner.jpg" width="950" height="150" /></p>
 					<table>
 						<tr>
 							<td><a href="../index.html">Home</a></td>
@@ -21,7 +23,7 @@
 							<td><a href="../mr-brainwash.html">Mr. Brainwash</a></td>
 							<td><a href="../mr-a.html">Mr. A</a></td>
 							<td><a href="../felix.html">Felix the Cat</a></td>
-							<td><a href="../shepard-ferry.html">Shepard Ferry</a></td>
+							<td><a href="../space-invader.html">Sspace invader</a></td>
 							<td><a href="../retna.html">Retna</a></td>
 						</tr>
 					</table>
