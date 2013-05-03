@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//Dli XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/Dli/xhtml1-transitional.dli">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -12,28 +12,24 @@
 	
 	<body>
 		<div class="wrapper">
-			<div class="navigation">
-			
-				<div class="table">
-					<p><img src="../images/banner.jpg" width="950" height="150" /></p>
-					<table>
-						<tr>
-							<td><a href="../index.html">Home</a></td>
-							<td><a href="../banksy.html">Banksy</a></td>
-							<td><a href="../mr-brainwash.html">Mr. Brainwash</a></td>
-							<td><a href="../mr-a.html">Mr. A</a></td>
-							<td><a href="../felix.html">Felix the Cat</a></td>
-							<td><a href="../space-invader.html">Sspace invader</a></td>
-							<td><a href="../retna.html">Retna</a></td>
-						</tr>
-					</table>
-				</div>
-			</div>
+<img src="../images/banner.jpg" width="950" height="150" />
+			<ul class="navigation">
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../banksy.html">Banksy</a></li>
+				<li><a href="../mr-brainwash.html">Mr. Brainwash</a></li>
+				<li><a href="../mr-a.html">Mr. A</a></li>
+				<li><a href="../felix.html">Felix the Cat</a></li>
+				<li><a href="../space-invader.html">Space Invader</a></li>
+				<li><a href="../retna.html">Retna</a></li>
+			</ul>
+
 			<div class="content">
-				<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->
+				<!-- TemplateBeginEditable name="content" -->
+				<h2>Homepage				</h2>
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="footer">
-				<p>this will be footer</p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</body>
