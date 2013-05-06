@@ -12,7 +12,7 @@
 	
 	<body>
 		<div class="wrapper">
-<img src="../images/banner.jpg" width="950" height="150" />
+			<img src="../images/banner.jpg" width="950" height="150" />
 			<ul class="navigation">
 				<li><a href="../index.html">Home</a></li>
 				<li><a href="../banksy.html">Banksy</a></li>
@@ -22,15 +22,12 @@
 				<li><a href="../space-invader.html">Space Invader</a></li>
 				<li><a href="../retna.html">Retna</a></li>
 			</ul>
-
 			<div class="content">
 				<!-- TemplateBeginEditable name="content" -->
-				<h2>Homepage				</h2>
+				<h2>Homepage </h2>
 				<!-- TemplateEndEditable -->
 			</div>
-			<div class="footer">
-				<p>&nbsp;</p>
-			</div>
+			<p>&nbsp;</p>
 		</div>
 	</body>
 </html>
